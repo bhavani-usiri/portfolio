@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import {
   Globe,
-  Linkedin,
+  Link,
   Mail,
   ExternalLink,
   Code2,
@@ -183,7 +183,7 @@ export default function Portfolio() {
               href="#"
               className="px-8 py-4 border border-white/20 rounded-full hover:bg-white hover:text-black transition-all duration-300"
             >
-              LinkedIn
+              Link
             </a>
           </div>
         </motion.div>
