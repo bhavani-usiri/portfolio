@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import {
   Globe,
-  LinkedinIcon,
+  Linkedin,
   Mail,
   ExternalLink,
   Code2,
