@@ -173,7 +173,7 @@ export default function Portfolio() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="mailto:hello@durgabhavani.com"
+              href="mailto:bhavani.durga1513@gmail.com"
               className="px-8 py-4 bg-white text-black rounded-full font-semibold hover:scale-105 transition-all duration-300"
             >
               Get In Touch
